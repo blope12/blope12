@@ -63,6 +63,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/blope12/blope12/output/snake.svg" alt="Snake animation" />
 
-###
