@@ -22,6 +22,10 @@
 
 ###
 <div align="center">
+  <a href="https://blope-senpai.ir/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website"/>
+  </a>
+<div align="center">
   <a href="https://discord.gg/YEY5NJqCyW" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
